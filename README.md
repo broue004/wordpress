@@ -1,4 +1,4 @@
-# VagrantPress
+﻿# VagrantPress
 
 *VagrantPress* is a packaged development environment for developing WordPress themes and modules.  
 I initially created this project to aid in developing child modules for a WordPress blog.

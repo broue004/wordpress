@@ -1,8 +1,6 @@
 .vagrant
 .ey_local_data
 latest.tar.gz
-./wordpress/
-/wordpress/
 /wp-tests/
 .htaccess
 wp-content/uploads/
